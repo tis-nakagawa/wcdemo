@@ -1,1 +1,1 @@
-# wcdemo
+# WalletConnect Demo
